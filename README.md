@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samin710/samin710/main/assets/banner.png" alt="Banner" width="100%">
+  <img src="https://github.com/samin710/samin710/blob/main/assets/banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#3498db">S M Samin</span></h1>
