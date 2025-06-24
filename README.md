@@ -44,4 +44,5 @@ Currently, I am:
 
 ![samin710's GitHub stats](https://github-readme-stats.vercel.app/api?username=samin710&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samin710&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samin710&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=samin710&theme=radical)
+
