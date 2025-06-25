@@ -18,6 +18,14 @@
 
 ---
 
+### 🧠 About Me
+- 🔭 I’m currently working on a full-featured percel delivery website
+- 🌱 I’m exploring advanced ML models like **Transformers** & **BERT**
+- 💻 I love building smart apps with MERN stack + AI integrations
+- 📚 Always learning and contributing to open source
+
+---
+
 ### 📬 Contact Me
 <p align="center">
   <a href="mailto:smsaminii112@gmail.com">
@@ -35,13 +43,6 @@
 
 ---
 
-### 🧠 About Me
-- 🔭 I’m currently working on a full-featured percel delivery website
-- 🌱 I’m exploring advanced ML models like **Transformers** & **BERT**
-- 💻 I love building smart apps with MERN stack + AI integrations
-- 📚 Always learning and contributing to open source
-
----
 
 ### 📊 GitHub Analytics
 <p align="center">
