@@ -21,10 +21,11 @@
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently working on a full-featured percel delivery website
-- 🌱 I’m exploring advanced ML models like **Transformers** & **BERT**
-- 💻 I love building smart apps with MERN stack + AI integrations
-- 📚 Always learning and contributing to open source
+- 🔭 Currently building my MCS thesis project focused on Machine Learning & Big Data
+- 🧠 Deep-diving into Transformers, BERT & Large Language Models
+- 💡 Passionate about bridging ML research with real-world full-stack applications
+- 🌱 Always learning — exploring MLOps, model deployment & scalable AI systems
+- 🤝 Open to remote collaborations, research projects & ML opportunities
 
 ---
 
